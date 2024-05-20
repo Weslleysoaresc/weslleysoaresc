@@ -7,11 +7,15 @@
 ![Super Mario Bros code](we.gif)
 
 
-
+----
 
 - 👋 Olá! Sou Weslley Soares, um estudante de Engenharia de Software <br>
 - 👨‍🎓 Graduando em Engenharia De Software [Infnet](https://faculdadeinfnet.com.br/faculdade/engenharia-de-software/)<br>
 
+---
+### Linguagem e Ferramentas 
+
+![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg)
 
 
 
