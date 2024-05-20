@@ -33,6 +33,7 @@
  |Formação HTML Web Developer|[Certificado](#)
  |Formação CSS Web Developer|[Certificado](#)
  |Formação Github Certification|[Certificado](#) 
+ 
  </p>
  
  ----
