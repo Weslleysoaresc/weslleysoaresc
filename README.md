@@ -13,7 +13,7 @@
 - 👨‍🎓 Graduando em Engenharia De Software [Infnet](https://faculdadeinfnet.com.br/faculdade/engenharia-de-software/)<br>
 
 ---
-<center> 
+<center align="center"> 
 
 ### Linguagem e Ferramentas 
 
